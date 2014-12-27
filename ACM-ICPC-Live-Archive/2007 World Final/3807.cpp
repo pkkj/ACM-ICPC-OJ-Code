@@ -1,5 +1,5 @@
 // CII 3807 
-// World Final 2006: Marble Game
+// World Final 2007: Marble Game
 // BFS
 #include <cstdio>
 #include <cstring>
