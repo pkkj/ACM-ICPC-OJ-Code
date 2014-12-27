@@ -5,7 +5,7 @@
 给出两个二维01阵：image与pattern，要求找出pattern在image之中出现了多少次。pattern可以作九十度旋转，也可以镜像倒转。
 ## Solution
 
-image的大小为h*w，而pattern的大小为p*p，可以考虑先进行Rabin Karp Hash，然后再进行KMP匹配的方法。具体实现是：
+image的大小为h × w，而pattern的大小为p × p，可以考虑先进行Rabin Karp Hash，然后再进行KMP匹配的方法。具体实现是：
 
 先把image的每一行看成一个字符串，把该字符串每p个位Hash成一个数字。也就是1到p位hash成一个数字，2到p+1位hash 成一个数字…………使用RK Hash对每一行进行操作，可以使复杂度为O(w)。对image每一行都这样处理后，我们得到一个h行，w-p+1列的二维数组，其中每个元素都是一个 数字。设该二维数组为h1[h][w-p+1]。
 
