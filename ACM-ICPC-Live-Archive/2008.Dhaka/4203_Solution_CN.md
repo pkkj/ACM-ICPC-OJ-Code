@@ -2,6 +2,7 @@
 ## Summary
 
 给出一个N × N的正方形，问有多少种方法，如图，将其分解成四个直角三角形。 
+
 ![Alt text](https://github.com/pkkj/ACM-ICPC-OJ-Code/raw/master/ACM-ICPC-Live-Archive/2008.Dhaka/4203_Img1.jpg "Image 1")
 ## Solution
 
