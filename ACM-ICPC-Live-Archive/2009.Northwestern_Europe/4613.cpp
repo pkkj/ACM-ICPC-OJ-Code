@@ -59,7 +59,6 @@ void solve() {
 }
 int main() {
 	int T;
-	freopen("in.txt", "r", stdin);
 	scanf("%d", &T);
 	while (T--)
 		solve();
