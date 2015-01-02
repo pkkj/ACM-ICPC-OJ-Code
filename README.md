@@ -15,3 +15,6 @@ https://icpcarchive.ecs.baylor.edu/
 
 ### SGU
 Saratov State University Online Contester: http://acm.sgu.ru/
+
+### HDU (HDOJ)
+Hangzhou Dianzi University Online Judge: http://acm.hdu.edu.cn/
