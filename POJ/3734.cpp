@@ -1,5 +1,5 @@
-// POJ 3734 Blocks
-// PKU Campus 2009 (POJ Monthly Contest – 2009.05.17), Simon
+// POJ 3734
+// PKU Campus 2009 (POJ Monthly Contest – 2009.05.17): Blocks
 #include <cstdio>
 #include <cstring>
 int len;

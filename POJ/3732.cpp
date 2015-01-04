@@ -1,5 +1,5 @@
-// POJ 3732 Paint Me Less
-// PKU Campus 2009 (POJ Monthly Contest – 2009.05.17)
+// POJ 3732
+// PKU Campus 2009 (POJ Monthly Contest – 2009.05.17): Paint Me Less
 #include <cstdio>
 #include <cstring>
 #define N 4

@@ -1,5 +1,5 @@
-// POJ 3739 Special Squares
-// PKU Campus 2009 (POJ Monthly Contest – 2009.05.17), Doraemonok
+// POJ 3739
+// PKU Campus 2009 (POJ Monthly Contest – 2009.05.17): Special Squares
 #include <algorithm>
 #include <cstdio>
 #include <cstring>
