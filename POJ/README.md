@@ -11,6 +11,10 @@
 | -----		|--------------------------						| :-----:						| :-----:								| 
 | POJ 1830 	| 开关问题										| [C++](poj1830.cpp) 		    | [Chinese](poj1830.Solution_CN.md)		|
 
+# 2004 Northeastern Europe, Northern Subregion
+| ID   		| Title 										| Code		  					| Solution								| 
+| -----		|--------------------------						| :-----:						| :-----:								| 
+| POJ 2096 	| Collecting Bugs 								| [C++](poj2096.cpp) 		    | [Chinese](poj2096.Solution_CN.md)		|
 
 ## MIT Programming Contest 2005
 | ID   		| Title 										| Code		  					| Solution								| 
