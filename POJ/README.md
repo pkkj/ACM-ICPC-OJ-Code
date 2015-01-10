@@ -49,9 +49,13 @@
 | POJ 3713 	| Transferring Sylla							| [C++](poj3713.cpp) 		    | [Chinese](poj3713.Solution_CN.md)		|
 
 ## POJ Monthly Contest – 2009.02.22
+| ID   		| Title 										| Code		  					| Solution								| 
+| -----		|--------------------------						| :-----:						| :-----:								| 
 | POJ 3715 	| Resistance									| [C++](poj3715.cpp) 		    | [Chinese](poj3715.Solution_CN.md)		|
 
 ## POJ Monthly Contest – 2009.04.05
+| ID   		| Title 										| Code		  					| Solution								| 
+| -----		|--------------------------						| :-----:						| :-----:								| 
 | POJ 3723 	| Conscription									| [C++](poj3723.cpp) 		    | [Chinese](poj3723.Solution_CN.md)		|
 | POJ 3724 	| Find the parameter							| [C++](poj3724.cpp) 		    | [Chinese](poj3724.Solution_CN.md)		|
 | POJ 3728 	| The merchant									| [C++](poj3728.cpp) 		    | [Chinese](poj3728.Solution_CN.md)		|
