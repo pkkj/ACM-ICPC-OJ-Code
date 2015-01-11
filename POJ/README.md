@@ -20,7 +20,17 @@
 | ID   		| Title 										| Code		  					| Solution								| 
 | -----		|--------------------------						| :-----:						| :-----:								| 
 | POJ 2928 	| A City of Skyscrapers							| [C++](poj2928.cpp) 		    | [Chinese](poj2928.Solution_CN.md)		|
+| POJ 2932 	| Coneology										| [C++](poj2932.cpp) 		    | [Chinese](poj2932.Solution_CN.md)		|
 
+
+## Nordic 2006
+| ID   		| Title 										| Code		  					| Solution								| 
+| -----		|--------------------------						| :-----:						| :-----:								| 
+| POJ 3029 	| Tour Guide									| [C++](poj3029.cpp) 		    | [Chinese](poj3029.Solution_CN.md)		|
+| POJ 3033 	| Traveling Salesman							| [C++](poj3033.cpp) 		    | [Chinese](poj3033.Solution_CN.md)		|
+| POJ 3034 	| Whac-a-Mole									| [C++](poj3034.cpp) 		    | [Chinese](poj3034.Solution_CN.md)		|
+| POJ 3035 	| Random Walking								| [C++](poj3035.cpp) 		    | [Chinese](poj3035.Solution_CN.md)		|
+| POJ 3036 	| Honeycomb Walk								| [C++](poj3036.cpp) 		    | N/A									|
 
 ## PKU Campus 2009 (POJ Monthly Contest – 2009.05.17)
 | ID   		| Title 										| Code		  					| Solution								| 
@@ -37,6 +47,12 @@
 | -----		|--------------------------						| :-----:						| :-----:								| 
 | POJ 3528 	| Ultimate Weapon								| [C++](poj3528.cpp) 		    | [Chinese](poj3528.Solution_CN.md)		|
 | POJ 3532 	| Resistance									| [C++](poj3532.cpp) 		    | [Chinese](poj3532.Solution_CN.md)		|
+
+## Northeastern Europe 2005, Western Subregion
+| ID   		| Title 										| Code		  					| Solution								| 
+| -----		|--------------------------						| :-----:						| :-----:								| 
+| POJ 3558 	| Map Generator returns (MG-II)					| [C++](poj3558.cpp) 		    | [Chinese](poj3558.Solution_CN.md)		|
+| POJ 3562 	| “Roman” corridor								| [C++](poj3562.cpp) 		    | [Chinese](poj3562.Solution_CN.md)		|
 
 ## POJ Founder Monthly Contest – 2008.07.27
 | ID   		| Title 										| Code		  					| Solution								| 
