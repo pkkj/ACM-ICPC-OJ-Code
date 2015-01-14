@@ -1,5 +1,5 @@
-// CII 3401
 // 2005 Tokyo: Colored Cubes
+// CII 3401
 #include <cstdio>
 #include <cstring>
 #include <map>

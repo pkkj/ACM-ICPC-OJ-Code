@@ -1,5 +1,5 @@
-// CII 3402
 // 2005 Tokyo: Organize Your Train
+// CII 3402
 #include <cstdio>
 #include <cstring>
 #include <queue>

@@ -1,5 +1,5 @@
-// CII 3404
 // 2005 Tokyo: Atomic Car Race
+// CII 3404
 #include <cstdio>
 #include <cstring>
 using namespace std;
