@@ -1,4 +1,4 @@
-// 2006 Tokyo: Power Calculus
+// 2006 Yokohama: Power Calculus
 // ACM-ICPC Live Archive 3621
 // POJ 3134
 #include <cstdio>

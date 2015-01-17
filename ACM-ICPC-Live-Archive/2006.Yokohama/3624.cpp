@@ -1,4 +1,4 @@
-// 2006 Tokyo: Enjoyable Commutation
+// 2006 Yokohama: Enjoyable Commutation
 // ACM-ICPC Live Archive 3624
 // POJ 3137
 #include <cstdio>

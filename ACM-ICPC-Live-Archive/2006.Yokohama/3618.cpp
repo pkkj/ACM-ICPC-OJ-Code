@@ -1,4 +1,4 @@
-// 2006 Tokyo: Cubic Eight-Puzzle
+// 2006 Yokohama: Cubic Eight-Puzzle
 // ACM-ICPC Live Archive 3618
 // POJ 3131
 #include <cstdio>
