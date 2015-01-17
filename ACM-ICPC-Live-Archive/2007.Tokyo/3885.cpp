@@ -1,6 +1,7 @@
 // 2007 Tokyo: Lowest Pyramid
 // ACM-ICPC Live Archive 3885
 // POJ 3520
+// Note: in POJ, G++ will get wrong answer.
 #include <cstdio>
 #include <cstring>
 #include <vector>
