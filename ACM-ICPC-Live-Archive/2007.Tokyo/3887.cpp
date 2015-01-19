@@ -1,26 +1,23 @@
-#include <cstdio>
 // 2007 Tokyo: Slim Span
 // ACM-ICPC Live Archive 3887
 // POJ 3522
+#include <cstdio>
 #include <algorithm>
 #include <vector>
 using namespace std;
 #define N 105
 struct EDGE {
 	int a, b, w;
+	bool operator <(const EDGE &other){
+		return w < other.w;
+	}
 };
 
-int cmp(const EDGE &a, const EDGE &b) {
-	return a.w < b.w;
-}
 int n, m;
 int fa[N], rank[N];
 void init_set() {
-	int i;
-	for (i = 0; i <= n; i++) {
-		fa[i] = i;
-		rank[i] = 0;
-	}
+	for (int i = 0; i <= n; i++)
+		fa[i] = i, rank[i] = 0;
 }
 int find_root(int p) {
 	if (fa[p] != p)
@@ -45,7 +42,7 @@ void solve() {
 	elist.resize(m);
 	for (i = 0; i < m; i++)
 		scanf("%d%d%d", &elist[i].a, &elist[i].b, &elist[i].w);
-	sort(elist.begin(), elist.end(), cmp);
+	sort(elist.begin(), elist.end());
 	for (i = 0; i < m; i++) {
 		int tmp = -1, base = elist[i].w;
 		linked = 1;
@@ -60,10 +57,9 @@ void solve() {
 				break;
 			}
 		}
-		if(tmp == -1)
+		if (tmp == -1) // No more answer could be found.
 			break;
-		if (tmp != -1 && tmp < ans)
-			ans = tmp;
+		ans = min(ans, tmp);
 	}
 	printf("%d\n", (ans == 100000000) ? -1 : ans);
 }
