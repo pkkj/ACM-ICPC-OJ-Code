@@ -1,5 +1,5 @@
+// 2002 Kaohsiung: Tree Size Problem
 // POJ 1344
-// 2002 Taiwan: Tree Size Problem
 #include <cstdio>
 #include <cstring>
 #define N 50
