@@ -1,5 +1,5 @@
-// CII 4275
 // 2008 Hefei: Rational Number Approximation
+// CII 4275
 #include <cstdio>
 long long gcd(long long m, long long n) {
 	long long r;

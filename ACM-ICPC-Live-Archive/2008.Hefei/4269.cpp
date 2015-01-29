@@ -1,5 +1,5 @@
-// CII 4269
 // 2008 Hefei: A Simple Game
+// CII 4269
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

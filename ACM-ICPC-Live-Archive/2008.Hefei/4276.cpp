@@ -1,5 +1,5 @@
-// CII 4276
 // 2008 Hefei: Triangles
+// CII 4276
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
