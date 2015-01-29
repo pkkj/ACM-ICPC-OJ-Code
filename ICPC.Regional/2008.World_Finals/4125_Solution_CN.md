@@ -13,7 +13,7 @@
 2. 变更事件，删除三角形的一条边(p1,p2)，插入(p2,p3)
 3. 删除事件，退出整个三角形(p1,p3),(p2,p3)。 
 
-![Alt text](https://github.com/pkkj/ACM-ICPC-OJ-Code/raw/master/ACM-ICPC-Live-Archive/2008.World_Finals/4125_Img1.jpg "Image 1")
+![Alt text](4125_Img1.jpg "Image 1")
 
 
 括号表示法：如图，用括号序列表示扫描线事件点发生后，三角形的边的在y方向的嵌套关系。图中红色表示插入事件，黄色表示变更事件，蓝色表示删除事件。
