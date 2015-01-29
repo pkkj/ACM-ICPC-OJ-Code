@@ -15,14 +15,14 @@ void preProcess(){
 
 			// Check the best previous answer allowing leading 0.
 			string s = minAns[i] + minAns0[num - i];
-			long long is = stoll(s.c_str());
+			long long is = _atoi64(s.c_str());
 			if (is < best){
 				best = is;
 				minAns[num] = s;
 			}
 
 			s = minAns0[i] + minAns0[num - i];
-			is = stoll(s.c_str());
+			is = _atoi64(s.c_str());
 			if (minAns0[num].length() == 0 || minAns0[num].length() > s.length() || minAns0[num].length() == s.length() && is < best0){
 				best0 = is;
 				minAns0[num] = s;
