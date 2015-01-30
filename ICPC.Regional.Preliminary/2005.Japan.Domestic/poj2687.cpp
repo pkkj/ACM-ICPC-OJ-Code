@@ -1,5 +1,5 @@
 // 2005 Japan Domestic: Earth Observation with a Mobile Robot Team
-// POJ 3687
+// POJ 2687
 #include <cstdio>
 #include <cstring>
 #include <vector>
