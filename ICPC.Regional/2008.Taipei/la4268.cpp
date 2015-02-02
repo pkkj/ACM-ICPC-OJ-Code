@@ -1,5 +1,5 @@
 // 2008 Taipei: Bonus Adjustment
-// CII 4268
+// ACM-ICPC Live Archive 4268
 #include <cstdio>
 #include <cstring>
 #include <cmath>

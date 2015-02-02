@@ -1,5 +1,5 @@
 // 2008 Taipei: Finding The Heaviest Path
-// CII 4267
+// ACM-ICPC Live Archive 4267
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

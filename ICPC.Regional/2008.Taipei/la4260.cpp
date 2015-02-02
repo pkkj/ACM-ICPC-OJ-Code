@@ -1,5 +1,5 @@
 // 2008 Taipei: Fortune Card Game
-// CII 4260
+// ACM-ICPC Live Archive 4260
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

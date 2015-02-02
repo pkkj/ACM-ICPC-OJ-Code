@@ -1,5 +1,5 @@
 // 2008 Amritapuri: Paper Presentation
-// CII 4333
+// ACM-ICPC Live Archive 4333
 #include <cstdio>
 #include <cstring>
 #include <vector>

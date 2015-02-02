@@ -1,5 +1,5 @@
 // 2008 Taipei: Message
-// CII 4264
+// ACM-ICPC Live Archive 4264
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

@@ -1,5 +1,5 @@
 // 2008 Taipei: Early-Morning Pickup
-// CII 4263
+// ACM-ICPC Live Archive 4263
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

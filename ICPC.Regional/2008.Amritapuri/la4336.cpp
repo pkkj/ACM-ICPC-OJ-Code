@@ -1,5 +1,5 @@
 // 2008 Amritapuri: Palindromic paths
-// CII 4336
+// ACM-ICPC Live Archive 4336
 #include <cstdio>
 #include <cstring>
 #define N 55

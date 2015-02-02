@@ -1,5 +1,5 @@
 // 2008 Amritapuri: Minesweeper
-// CII 4335
+// ACM-ICPC Live Archive 4335
 #include <cstdio>
 #define N 25
 char ch[N][N];

@@ -1,5 +1,5 @@
 // 2008 Amritapuri: Gold Digging
-// CII 4334
+// ACM-ICPC Live Archive 4334
 #include <cstdio>
 #include <queue>
 using namespace std;

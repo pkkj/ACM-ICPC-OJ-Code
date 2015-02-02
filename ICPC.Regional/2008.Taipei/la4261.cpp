@@ -1,5 +1,5 @@
 // 2008 Taipei: Trip Planning
-// CII 4261
+// ACM-ICPC Live Archive 4261
 #include <cstdio>
 #include <cstring>
 #define N 1005

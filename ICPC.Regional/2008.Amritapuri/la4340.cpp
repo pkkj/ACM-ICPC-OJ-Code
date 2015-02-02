@@ -1,5 +1,5 @@
 // 2008 Amritapuri: Find Terrorists
-// CII 4340
+// ACM-ICPC Live Archive 4340
 #include <cstdio>
 #include <cstring>
 #include <cmath>

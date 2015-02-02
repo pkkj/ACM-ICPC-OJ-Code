@@ -1,5 +1,5 @@
 // 2008 Amritapuri: Pile it down
-// CII 4337
+// ACM-ICPC Live Archive 4337
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
