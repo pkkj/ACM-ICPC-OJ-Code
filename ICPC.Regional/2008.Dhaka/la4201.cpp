@@ -1,5 +1,5 @@
-// CII 4201
 // 2008 Dhaka: Switch Bulbs
+// ACM-ICPC Live Archive 4201
 #include <cstdio>
 #include <cstring>
 #define N ((1<<15)+1)

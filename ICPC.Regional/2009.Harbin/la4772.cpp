@@ -1,5 +1,5 @@
-// CII 4772
 // 2009 Harbin: FM
+// ACM-ICPC Live Archive 4772
 #include <cstdio>
 #include <cstring>
 #include <queue>

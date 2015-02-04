@@ -1,5 +1,5 @@
-// CII 4200
 // 2008 Dhaka: Find the Format String
+// ACM-ICPC Live Archive 4200
 #include <cstdio>
 #include <cstring>
 #define N 150

@@ -1,5 +1,5 @@
-// CII 4209
 // 2008 Dhaka: Stopping Doom's Day
+// ACM-ICPC Live Archive 4209
 #include <cstdio>
 #define M 10007
 typedef long long ll;

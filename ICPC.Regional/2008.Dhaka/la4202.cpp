@@ -1,5 +1,5 @@
-// CII 4202
 // 2008 Dhaka: Schedule of a Married Man
+// ACM-ICPC Live Archive 4202
 #include <cstdio>
 int main() {
 	int T, h1, m1, h2, m2, ca = 1;

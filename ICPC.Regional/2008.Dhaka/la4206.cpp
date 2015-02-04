@@ -1,5 +1,5 @@
-// CII 4206
 // 2008 Dhaka: Magic Ring
+// ACM-ICPC Live Archive 4206
 #include <cstdio>
 #include <cstring>
 #include <cmath>

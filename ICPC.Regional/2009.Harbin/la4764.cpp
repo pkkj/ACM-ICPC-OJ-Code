@@ -1,3 +1,5 @@
+// 2009 Harbin: Bing it
+// ACM-ICPC Live Archive 4764
 #include <cstdio>
 #include <cstring>
 #define N 100005

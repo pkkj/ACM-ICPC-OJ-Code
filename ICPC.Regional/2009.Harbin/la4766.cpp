@@ -1,5 +1,5 @@
-// CII 4770
 // 2009 Harbin: Gold Mines
+// ACM-ICPC Live Archive 4770
 #include <cstdio>
 #include <cstring>
 #include <queue>

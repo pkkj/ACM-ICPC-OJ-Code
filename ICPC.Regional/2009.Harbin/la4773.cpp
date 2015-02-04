@@ -1,5 +1,5 @@
-// CII 4773
 // 2009 Harbin: YY and YY Again
+// ACM-ICPC Live Archive 4773
 #include <cstdio>
 #include <cstring>
 char s[1000];

@@ -1,5 +1,5 @@
-// CII 4769
 // 2009 Harbin: Fuzzy Google Suggest
+// ACM-ICPC Live Archive 4769
 #include <cstdio>
 #include <cstring>
 #define N 1100005

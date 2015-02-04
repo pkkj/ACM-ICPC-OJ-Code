@@ -1,5 +1,5 @@
-// CII 4209 - Solution 2
 // 2008 Dhaka: Stopping Doom's Day
+// ACM-ICPC Live Archive 4209 - Solution 2
 // 计算系数时用的拉格朗日插值法，附带多项式计算类和分数计算类。 
 
 #include <cstdio>

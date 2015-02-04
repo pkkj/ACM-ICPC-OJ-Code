@@ -1,5 +1,5 @@
-// CII 4203
 // 2008 Dhaka: Puzzles of Triangles
+// ACM-ICPC Live Archive 4203
 #include <cstdio>
 #include <cstring>
 #define BIG 10000005

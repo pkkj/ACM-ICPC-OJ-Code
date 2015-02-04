@@ -1,5 +1,5 @@
-// CII 4770
 // 2009 Harbin: Offset Recovery
+// ACM-ICPC Live Archive 4770
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
