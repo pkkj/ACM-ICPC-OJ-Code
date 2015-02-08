@@ -2,11 +2,8 @@
 // ACM-ICPC Live Archive 4747
 #include <cstdio>
 #include <cstring>
-#include <map>
-#include <vector>
 #include <stack>
 #include <algorithm>
-#include <set>
 using namespace std;
 
 #define W 30005
@@ -130,9 +127,8 @@ int widthInfo[7][4][4] = {
 };
 
 char shapeMap[200];
-int w, upper[W * 4], lower[W * 4], rows[W * 4];
+int w, upper[W * 4], lower[W * 4], rows[W * 4], clearedRow[W * 4], clearedRowCnt;
 stack<int> cols[W];
-vector<int> clearedRow;
 int score[] = { 0, 100, 250, 400, 1000 };
 
 void initShapeMap() {
@@ -141,6 +137,7 @@ void initShapeMap() {
 }
 
 int getHeight(int cur, int gap){
+	// Skip the cleared rows
 	if (gap > 0){
 		for (int i = 0; i < gap; i++)
 			cur = upper[cur];
@@ -153,7 +150,7 @@ int getHeight(int cur, int gap){
 }
 
 int fall(char type, int left, int degree){
-	int toBeRemoved[4], targetRows[4], toBeRemovedCnt = 0;
+	int targetRows[4], toBeRemovedCnt = 0;
 	degree /= 90;
 	if (type == 'I' || type == 'S' || type == 'Z')
 		degree %= 2;
@@ -180,26 +177,23 @@ int fall(char type, int left, int degree){
 		}
 	}
 
-	// Update rows
+	// Update and clear the rows
 	for (int i = 0; i < shapeMeta[type][degree].h; i++){
-		rows[targetRows[i]] += widthInfo[type][degree][i];
-		if (rows[targetRows[i]] == w)
-			toBeRemoved[toBeRemovedCnt++] = targetRows[i];
+		int curRow = targetRows[i];
+		rows[curRow] += widthInfo[type][degree][i];
+		if (rows[curRow] == w){
+			toBeRemovedCnt++;
+			clearedRow[clearedRowCnt++] = curRow;
+			upper[lower[curRow]] = upper[curRow];
+			lower[upper[curRow]] = lower[curRow];
+		}
 	}
 
-	// Clear rows
-	for (int i = 0; i < toBeRemovedCnt; i++){
-		int removingRow = toBeRemoved[i];
-		rows[removingRow] = -1;
-		clearedRow.push_back(removingRow);
-		upper[lower[removingRow]] = upper[removingRow];
-		lower[upper[removingRow]] = lower[removingRow];
-	}
+	// Remove the eliminated blocks at the top of each stack
 	if (toBeRemovedCnt){
 		for (int i = 0; i < w; i++){
-			while (rows[cols[i].top()] == -1){
+			while (rows[cols[i].top()] == w)
 				cols[i].pop();
-			}
 		}
 	}
 	return score[toBeRemovedCnt];
@@ -210,7 +204,7 @@ void solve() {
 	int n, score = 0, left, degree;
 	char type[2];
 	scanf("%d%d", &w, &n);
-	clearedRow.clear();
+	clearedRowCnt = 0;
 	for (int i = 0; i < w; i++){
 		while (!cols[i].empty())
 			cols[i].pop();
@@ -228,10 +222,10 @@ void solve() {
 	}
 
 	printf("%d\n", score);
-	sort(clearedRow.begin(), clearedRow.end());
+	sort(clearedRow, clearedRow + clearedRowCnt);
 	for (int i = 0; i < w; i++){
 		int height = cols[i].top();
-		printf(i == 0 ? "%d" : " %d", height - (lower_bound(clearedRow.begin(), clearedRow.end(), height) - clearedRow.begin()));
+		printf(i == 0 ? "%d" : " %d", height - (lower_bound(clearedRow, clearedRow + clearedRowCnt, height) - clearedRow));
 	}
 	printf("\n");
 }
