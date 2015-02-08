@@ -1,5 +1,5 @@
-// CII 4743
 // 2009 Shanghai: Alice’s Cube
+// ACM-ICPC Live Archive 4743
 #include <cstdio>
 #include <cstring>
 #include <queue>

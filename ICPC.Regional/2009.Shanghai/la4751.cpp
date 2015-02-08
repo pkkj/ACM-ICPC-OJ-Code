@@ -1,5 +1,5 @@
-// CII 4751
 // 2009 Shanghai: Island Explorer
+// ACM-ICPC Live Archive 4751
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

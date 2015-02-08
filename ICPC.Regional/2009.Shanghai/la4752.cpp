@@ -1,5 +1,5 @@
-// CII 4752
 // 2009 Shanghai: Jinyuetuan Puzzle
+// ACM-ICPC Live Archive 4752
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

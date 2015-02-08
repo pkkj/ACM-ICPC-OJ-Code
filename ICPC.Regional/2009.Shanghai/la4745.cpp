@@ -1,5 +1,5 @@
-// CII 4745
 // 2009 Shanghai: Compressed String
+// ACM-ICPC Live Archive 4745
 #include <cstdio>
 #include <cstring>
 #define N 25
