@@ -136,8 +136,6 @@ int solve() {
 }
 
 int main() {
-	freopen("in.txt", "r", stdin);
-	freopen("out.txt", "w", stdout);
 	int T;
 	scanf("%d", &T);
 	for (int ca = 1; ca <= T; ca++)
