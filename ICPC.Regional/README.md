@@ -1,5 +1,5 @@
 # Solution Index
-My ICPC Regional Contests solutions cover part of the problem between 2002 to 2009. Half of the problems remain unsolved because they are too difficult for me.
+My solutions cover the ICPC regional contests from 2002 to 2010. I focus on the problems from Asian and European contests. About half of the problems remain unsolved because they are too difficult to me.
 
 Some codes might be unvailable because I haven't uploaded them yet.
 
@@ -454,6 +454,30 @@ Some codes might be unvailable because I haven't uploaded them yet.
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
 | Title | Asse| Box | Cros| Down| Excl| Fina| Gift| Help| In a| Jiaj
 | Done? | | [YES](2009.Wuhan/la4484.cpp) | [YES](2009.Wuhan/la4485.cpp) | [YES](2009.Wuhan/la4486.cpp) | [YES](2009.Wuhan/la4487.cpp) | | [YES](2009.Wuhan/la4489.cpp) | | | [YES](2009.Wuhan/la4492.cpp) 
+
+
+
+
+
+[2010 East Central NA](2010.East_Central_NA/2010.East_Central_NA.Solution_CN.md)
+
+
+| UVALive | 4900 | 4901 | 4902 | 4903 | 4904 | 4905 | 4906 | 4907 
+|  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
+| Title | Cut | Flip| Maze| Phot| Pola| Pro-| Vamp| We'v
+| Done? | [YES](2010.East_Central_NA/la4900.cpp) | [YES](2010.East_Central_NA/la4901.cpp) | [YES](2010.East_Central_NA/la4902.cpp) | [YES](2010.East_Central_NA/la4903.cpp) | | [YES](2010.East_Central_NA/la4905.cpp) | [YES](2010.East_Central_NA/la4906.cpp) | 
+
+
+
+
+
+[2010 Hangzhou](2010.Hangzhou/2010.Hangzhou.Solution_CN.md)
+
+
+| UVALive | 4833 | 4834 | 4835 | 4836 | 4837 | 4838 | 4839 | 4840 | 4841 | 4842 
+|  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
+| Title | Naug| Pris| To B| Gomo| Guns| Rota| Traf| Nati| Sear| Infi
+| Done? | | [YES](2010.Hangzhou/la4834.cpp) | [YES](2010.Hangzhou/la4835.cpp) | | | [YES](2010.Hangzhou/la4838.cpp) | | [YES](2010.Hangzhou/la4840.cpp) | | [YES](2010.Hangzhou/la4842.cpp) 
 
 
 
