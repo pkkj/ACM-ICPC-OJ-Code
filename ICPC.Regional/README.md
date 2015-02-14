@@ -8,7 +8,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | POJ | 1339 | 1340 | 1341 | 1342 | 1343 | 1344 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Poker| The L| The S| Tag T| Roote| Tree 
+| Title | Poker Card| The Longes| The Strong| Tag Trees| Rooted Tre| Tree Size 
 | Done? | | | | | [YES](2002.Kaohsiung/poj1343.cpp) | [YES](2002.Kaohsiung/poj1344.cpp) 
 
 
@@ -38,7 +38,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 3336 | 3337 | 3338 | 3339 | 3340 | 3341 | 3342 | 3343 | 3344 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Tire | Rando| Paint| Open | Hour | Small| Fault| Last | Suit 
+| Title | Tire Di| Random | Paint M| Open an| Hour Gl| Smalles| Faulty | Last Di| Suit Di
 | Done? | | | | | | | | [YES](2005.Rocky_Mountain/la3343.cpp) | 
 
 
@@ -58,7 +58,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 3399 | 3400 | 3401 | 3402 | 3403 | 3404 | 3405 | 3406 | 3407 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Sum o| Book | Color| Organ| Mobil| Atomi| Netwo| Bingo| Shy P
+| Title | Sum of | Book Re| Colored| Organiz| Mobile | Atomic | Network| Bingo| Shy Pol
 | Done? | [YES](2005.Tokyo/la3399.cpp) | [YES](2005.Tokyo/la3400.cpp) | [YES](2005.Tokyo/la3401.cpp) | [YES](2005.Tokyo/la3402.cpp) | [YES](2005.Tokyo/la3403.cpp) | [YES](2005.Tokyo/la3404.cpp) | [YES](2005.Tokyo/la3405.cpp) | | 
 
 
@@ -68,7 +68,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 3660 | 3661 | 3662 | 3663 | 3664 | 3665 | 3666 | 3667 | 3668 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Robot| Anima| Anoth| Conne| Guess| XAR| What | Ruler| A Fun
+| Title | Robot| Animal | Another| Connect| Guess| XAR| What a | Ruler| A Funny
 | Done? | | [YES](2006.Beijing/la3661.cpp) | [YES](2006.Beijing/la3662.cpp) | | [YES](2006.Beijing/la3664.cpp) | | | [YES](2006.Beijing/la3667.cpp) | 
 
 
@@ -88,7 +88,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 3702 | 3703 | 3704 | 3705 | 3706 | 3707 | 3708 | 3709 | 3710 | 3711 | 3712 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | ASCII| Billi| Cellu| Drivi| Excha| Fool'| Grave| Hard | Inter| Java | Kickd
+| Title | ASCI| Bill| Cell| Driv| Exch| Fool| Grav| Hard| Inte| Java| Kick
 | Done? | [YES](2006.Northeastern_Europe/la3702.cpp) | [YES](2006.Northeastern_Europe/la3703.cpp) | [YES](2006.Northeastern_Europe/la3704.cpp) | | [YES](2006.Northeastern_Europe/la3706.cpp) | | [YES](2006.Northeastern_Europe/la3708.cpp) | | | [YES](2006.Northeastern_Europe/la3711.cpp) | 
 
 
@@ -98,7 +98,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 3575 | 3576 | 3577 | 3578 | 3579 | 3580 | 3581 | 3582 | 3583 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Bridg| Baske| Tooth| Human| Permu| Marbl| Doors| Knots| Strin
+| Title | Bridge | Baskets| Toothpi| Human K| Permuta| Marbles| Doors a| Knots| String 
 | Done? | | [YES](2006.Rocky_Mountain/la3576.cpp) | | | | | | [YES](2006.Rocky_Mountain/la3582.cpp) | 
 
 
@@ -118,7 +118,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 3616 | 3617 | 3618 | 3619 | 3620 | 3621 | 3622 | 3623 | 3624 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | How I| How I| Cubic| Sum o| Manha| Power| Polyg| The B| Enjoy
+| Title | How I W| How I M| Cubic E| Sum of | Manhatt| Power C| Polygon| The Bes| Enjoyab
 | Done? | [YES](2006.Yokohama/la3616.cpp) | [YES](2006.Yokohama/la3617.cpp) | [YES](2006.Yokohama/la3618.cpp) | [YES](2006.Yokohama/la3619.cpp) | [YES](2006.Yokohama/la3620.cpp) | [YES](2006.Yokohama/la3621.cpp) | [YES](2006.Yokohama/la3622.cpp) | | [YES](2006.Yokohama/la3624.cpp) 
 
 
@@ -188,7 +188,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4332 | 4333 | 4334 | 4335 | 4336 | 4337 | 4338 | 4339 | 4340 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Block| Paper| Gold | Mines| Palin| Pile | Dice | Advis| Find 
+| Title | Blocks | Paper P| Gold Di| Mineswe| Palindr| Pile it| Dice Po| Advise | Find Te
 | Done? | | [YES](2008.Amritapuri/la4333.cpp) | [YES](2008.Amritapuri/la4334.cpp) | [YES](2008.Amritapuri/la4335.cpp) | [YES](2008.Amritapuri/la4336.cpp) | [YES](2008.Amritapuri/la4337.cpp) | | | [YES](2008.Amritapuri/la4340.cpp) 
 
 
@@ -198,7 +198,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4392 | 4393 | 4394 | 4395 | 4396 | 4397 | 4398 | 4399 | 4400 | 4401 | 4402 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Proce| Box| Strin| Crop | Slide| Kingd| Steal| Toy| Trans| Count| Build
+| Title | Proc| Box| Stri| Crop| Slid| King| Stea| Toy| Tran| Coun| Buil
 | Done? | [YES](2008.Chengdu/la4392.cpp) | [YES](2008.Chengdu/la4393.cpp) | [YES](2008.Chengdu/la4394.cpp) | | [YES](2008.Chengdu/la4396.cpp) | | [YES](2008.Chengdu/la4398.cpp) | | [YES](2008.Chengdu/la4400.cpp) | [YES](2008.Chengdu/la4401.cpp) | 
 
 
@@ -238,7 +238,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4269 | 4270 | 4271 | 4272 | 4273 | 4274 | 4275 | 4276 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | A Sim| Discr| Neckl| Polyn| Post | Progr| Ratio| Trian
+| Title | A Simpl| Discret| Necklac| Polynom| Post Of| Program| Rationa| Triangl
 | Done? | [YES](2008.Hefei/la4269.cpp) | | [YES](2008.Hefei/la4271.cpp) | [YES](2008.Hefei/la4272.cpp) | | | [YES](2008.Hefei/la4275.cpp) | [YES](2008.Hefei/la4276.cpp) 
 
 
@@ -258,7 +258,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4403 | 4404 | 4405 | 4406 | 4407 | 4408 | 4409 | 4410 | 4411 | 4412 | 4413 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | ASCII| Match| Tarif| Irred| Gun F| Unloc| Ironm| Shoot| Addit| The G| Trian
+| Title | ASCI| Matc| Tari| Irre| Gun | Unlo| Iron| Shoo| Addi| The | Tria
 | Done? | [YES](2008.Kuala_Lumpur/la4403.cpp) | [YES](2008.Kuala_Lumpur/la4404.cpp) | [YES](2008.Kuala_Lumpur/la4405.cpp) | | [YES](2008.Kuala_Lumpur/la4407.cpp) | [YES](2008.Kuala_Lumpur/la4408.cpp) | [YES](2008.Kuala_Lumpur/la4409.cpp) | | | | [YES](2008.Kuala_Lumpur/la4413.cpp) 
 
 
@@ -298,7 +298,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4493 | 4494 | 4495 | 4496 | 4497 | 4498 | 4499 | 4500 | 4501 | 4502 | 4503 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | That | How M| Foot | A Mat| Games| Passw| Camer| Traff| Recta| How M| Integ
+| Title | That| How | Foot| A Ma| Game| Pass| Came| Traf| Rect| How | Inte
 | Done? | [YES](2009.Dhaka/la4493.cpp) | [YES](2009.Dhaka/la4494.cpp) | [YES](2009.Dhaka/la4495.cpp) | [YES](2009.Dhaka/la4496.cpp) | [YES](2009.Dhaka/la4497.cpp) | | [YES](2009.Dhaka/la4499.cpp) | [YES](2009.Dhaka/la4500.cpp) | | [YES](2009.Dhaka/la4502.cpp) | 
 
 
@@ -318,7 +318,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4763 | 4764 | 4765 | 4766 | 4767 | 4768 | 4769 | 4770 | 4771 | 4772 | 4773 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Sudok| Bing | Strin| Gold | Machi| Missi| Fuzzy| Offse| The N| FM| YY an
+| Title | Sudo| Bing| Stri| Gold| Mach| Miss| Fuzz| Offs| The | FM| YY a
 | Done? | | [YES](2009.Harbin/la4764.cpp) | | [YES](2009.Harbin/la4766.cpp) | | | [YES](2009.Harbin/la4769.cpp) | [YES](2009.Harbin/la4770.cpp) | | [YES](2009.Harbin/la4772.cpp) | [YES](2009.Harbin/la4773.cpp) 
 
 
@@ -348,7 +348,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4712 | 4713 | 4714 | 4715 | 4716 | 4717 | 4718 | 4719 | 4720 | 4721 | 4722 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Airpl| Elias| In-ci| Ratin| Relat| Your | Hexag| Buy Y| Synne| Nowhe| Highw
+| Title | Airp| Elia| In-c| Rati| Rela| Your| Hexa| Buy | Synn| Nowh| High
 | Done? | [YES](2009.Phuket/la4712.cpp) | [YES](2009.Phuket/la4713.cpp) | [YES](2009.Phuket/la4714.cpp) | | [YES](2009.Phuket/la4716.cpp) | | | | | [YES](2009.Phuket/la4721.cpp) | 
 
 
