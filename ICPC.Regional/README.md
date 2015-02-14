@@ -1,4 +1,4 @@
-# Solution Index
+# Statistics
 My solutions cover the ICPC regional contests from 2002 to 2010. I focus on the problems from Asian and European contests. About half of the problems remain unsolved because they are too difficult to me.
 
 Some codes might be unvailable because I haven't uploaded them yet.
@@ -226,6 +226,18 @@ Some codes might be unvailable because I haven't uploaded them yet.
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
 | Title | Bloc| Pape| Gold| Mine| Pali| Pile| Dice| Advi| Find
 | Done? | | [YES](2008.Amritapuri/la4333.cpp) | [YES](2008.Amritapuri/la4334.cpp) | [YES](2008.Amritapuri/la4335.cpp) | [YES](2008.Amritapuri/la4336.cpp) | [YES](2008.Amritapuri/la4337.cpp) | | | [YES](2008.Amritapuri/la4340.cpp) 
+
+
+
+
+
+[2008 Beijing](2008.Beijing/2008.Beijing.Solution_CN.md)
+
+
+| UVALive | 4322 | 4323 | 4324 | 4325 | 4326 | 4327 | 4328 | 4329 | 4330 | 4331 
+|  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
+| Title | Dest| A si| Ugly| Torn| Mini| Para| Prie| Ping| Time| Elev
+| Done? | [YES](2008.Beijing/la4322.cpp) | | | | [YES](2008.Beijing/la4326.cpp) | | [YES](2008.Beijing/la4328.cpp) | [YES](2008.Beijing/la4329.cpp) | [YES](2008.Beijing/la4330.cpp) | 
 
 
 
