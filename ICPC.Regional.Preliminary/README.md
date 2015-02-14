@@ -14,7 +14,7 @@ Here is a list of including contests:
 * Nordic Collegiate Programming Contest 
 
 # Statistics
-Some codes might be unvailable because I haven't uploaded them yet.
+Some codes might be unavailable because I haven't uploaded them yet.
 
 [2005.Japan.Domestic](2005.Japan.Domestic/2005.Japan.Domestic.Solution_CN.md)
 
@@ -52,13 +52,13 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 
 
-[2008 Hefei](2008.Hefei/2008.Hefei.Solution_CN.md)
+[2008 Hefeil.Preliminary](2008.Hefeil.Preliminary/2008.Hefeil.Preliminary.Solution_CN.md)
 
 
 | POJ | 3690 | 3691 | 3692 | 3693 | 3694 | 3695 | 3696 | 3697 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
 | Title | Conste| DNA_re| Kinder| Maximu| Networ| Rectan| The_Lu| USTC_c
-| Done? | [YES](2008.Hefei/poj3690.cpp) | [YES](2008.Hefei/poj3691.cpp) | [YES](2008.Hefei/poj3692.cpp) | | [YES](2008.Hefei/poj3694.cpp) | [YES](2008.Hefei/poj3695.cpp) | | [YES](2008.Hefei/poj3697.cpp) 
+| Done? | [YES](2008.Hefeil.Preliminary/poj3690.cpp) | [YES](2008.Hefeil.Preliminary/poj3691.cpp) | [YES](2008.Hefeil.Preliminary/poj3692.cpp) | | [YES](2008.Hefeil.Preliminary/poj3694.cpp) | [YES](2008.Hefeil.Preliminary/poj3695.cpp) | | [YES](2008.Hefeil.Preliminary/poj3697.cpp) 
 
 
 
