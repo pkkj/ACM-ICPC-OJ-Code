@@ -2,18 +2,6 @@
 
 The codes/solutions for preliminary contests of the official ACM ICPC regional contests will be stored under this folder.
 
-Here is a list of including contests:
-
-##### Asia
-
-* Online preliminary contests for regional contest in China
-* Japan Domestic Contest
-
-##### Europe
-
-* Nordic Collegiate Programming Contest 
-
-
 
 # Statistics
 Some codes might be unavailable because I haven't uploaded them yet.
@@ -54,6 +42,18 @@ Some codes might be unavailable because I haven't uploaded them yet.
 
 
 
+[2008 Harbin.Preliminary](2008.Harbin.Preliminary/2008.Harbin.Preliminary.Solution_CN.md)
+
+
+| HDU | 2438 | 2439 | 2440 | 2441 | 2442 | 2443 | 2444 | 2445 
+|  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
+| Title | Turn_t| The_Mu| Watch_| ACMArr| Bricks| Counte| The_Ac| Little
+| Done? | [YES](2008.Harbin.Preliminary/hdu2438.cpp) | | [YES](2008.Harbin.Preliminary/hdu2440.cpp) | | | [YES](2008.Harbin.Preliminary/hdu2443.cpp) | [YES](2008.Harbin.Preliminary/hdu2444.cpp) | 
+
+
+
+
+
 [2008 Hefei.Preliminary](2008.Hefei.Preliminary/2008.Hefei.Preliminary.Solution_CN.md)
 
 
@@ -73,6 +73,18 @@ Some codes might be unavailable because I haven't uploaded them yet.
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
 | Title | Aspen_| Best_C| Code_T| Dinner| Event_| Fixing| Gettin| Hard_E| Intros| Just_A
 | Done? | [YES](2008.Nordic/uva11555.cpp) | | [YES](2008.Nordic/uva11557.cpp) | | [YES](2008.Nordic/uva11559.cpp) | | [YES](2008.Nordic/uva11561.cpp) | [YES](2008.Nordic/uva11562.cpp) | | 
+
+
+
+
+
+[2008.Chengdu.Preliminary](2008.Chengdu.Preliminary/2008.Chengdu.Preliminary.Solution_CN.md)
+
+
+| HDU | 2428 | 2429 | 2430 | 2431 | 2432 | 2433 | 2434 | 2435 | 2436 | 2437 
+|  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
+| Title | Stars| Word_G| Beans| Counti| Farey_| Travel| Lets_p| There_| Collis| Jerboa
+| Done? | [YES](2008.Chengdu.Preliminary/hdu2428.cpp) | [YES](2008.Chengdu.Preliminary/hdu2429.cpp) | | | | [YES](2008.Chengdu.Preliminary/hdu2433.cpp) | | | [YES](2008.Chengdu.Preliminary/hdu2436.cpp) | [YES](2008.Chengdu.Preliminary/hdu2437.cpp) 
 
 
 
