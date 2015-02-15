@@ -1,6 +1,6 @@
-// CII 3343
-// POJ 2720
 // Rocky Mountain 2005: Last Digits
+// ACM-ICPC Live Archive 3343
+// POJ 2720
 #include <cstdio>
 #include <cstring>
 #define N 100 + 5

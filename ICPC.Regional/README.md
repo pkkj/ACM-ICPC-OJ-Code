@@ -1,15 +1,27 @@
 # Statistics
 My solutions cover the ICPC regional contests from 2002 to 2010. I focus on the problems from Asian and European contests. About half of the problems remain unsolved because they are too difficult to me.
 
-Some codes might be unvailable because I haven't uploaded them yet.
+Some codes might be unavailable because I haven't uploaded them yet.
 
 [2002 Kaohsiung](2002.Kaohsiung/2002.Kaohsiung.Solution_CN.md)
 
 
 | POJ | 1339 | 1340 | 1341 | 1342 | 1343 | 1344 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Poke| The | The | Tag | Root| Tree
+| Title | Poke| The_| The_| Tag_| Root| Tree
 | Done? | | | | | [YES](2002.Kaohsiung/poj1343.cpp) | [YES](2002.Kaohsiung/poj1344.cpp) 
+
+
+
+
+
+[2003.Guangzhou](2003.Guangzhou/2003.Guangzhou.Solution_CN.md)
+
+
+| UVALive | 2948 | 2949 | 2950 | 2951 | 2952 | 2953 | 2954 | 2955 
+|  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
+| Title | Spec| Elev| New_| Oute| Fold| Sum_| Task| Vivi
+| Done? | [YES](2003.Guangzhou/la2948.cpp) | [YES](2003.Guangzhou/la2949.cpp) | | [YES](2003.Guangzhou/la2951.cpp) | | [YES](2003.Guangzhou/la2953.cpp) | [YES](2003.Guangzhou/la2954.cpp) | [YES](2003.Guangzhou/la2955.cpp) 
 
 
 
@@ -20,7 +32,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 3259 | 3260 | 3261 | 3262 | 3263 | 3264 | 3265 | 3266 | 3267 | 3268 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Amph| Link| The | Diff| That| The | The | Tian| Isla| Jami
+| Title | Amph| Link| The_| Diff| That| The_| The_| Tian| Isla| Jami
 | Done? | [YES](2004.Shanghai/la3259.cpp) | | | | [YES](2004.Shanghai/la3263.cpp) | | [YES](2004.Shanghai/la3265.cpp) | | [YES](2004.Shanghai/la3267.cpp) | [YES](2004.Shanghai/la3268.cpp) 
 
 
@@ -32,7 +44,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 3523 | 3524 | 3525 | 3510 | 3527 | 3528 | 3529 | 3530 | 3531 | 3532 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Knig| The | Wild| Pixe| Find| The | Widg| Mart| Word| Nucl
+| Title | Knig| The_| Wild| Pixe| Find| The_| Widg| Mart| Word| Nucl
 | Done? | [YES](2005.Central_Europe/la3523.cpp) | [YES](2005.Central_Europe/la3524.cpp) | [YES](2005.Central_Europe/la3525.cpp) | [YES](2005.Central_Europe/la3510.cpp) | [YES](2005.Central_Europe/la3527.cpp) | [YES](2005.Central_Europe/la3528.cpp) | [YES](2005.Central_Europe/la3529.cpp) | | [YES](2005.Central_Europe/la3531.cpp) | 
 
 
@@ -45,7 +57,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 | UVALive | 3336 | 3337 | 3338 | 3339 | 3340 | 3341 | 3342 | 3343 | 3344 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
 | Title | Tire| Rand| Pain| Open| Hour| Smal| Faul| Last| Suit
-| Done? | | | | | | | | [YES](2005.Rocky_Mountain/la3343.cpp) | 
+| Done? | | [YES](2005.Rocky_Mountain/la3337.cpp) | | | | [YES](2005.Rocky_Mountain/la3341.cpp) | [YES](2005.Rocky_Mountain/la3342.cpp) | [YES](2005.Rocky_Mountain/la3343.cpp) | [YES](2005.Rocky_Mountain/la3344.cpp) 
 
 
 
@@ -56,7 +68,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 3502 | 3503 | 3504 | 3505 | 3506 | 3507 | 3508 | 3509 | 3510 | 3511 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | The | Bin | On S| Buy | 4 Va| Keep| UFO | Blac| Pixe| Cons
+| Title | The_| Bin_| On_S| Buy_| _Val| Keep| UFO_| Blac| Pixe| Cons
 | Done? | [YES](2005.Southwestern_Europe/la3502.cpp) | [YES](2005.Southwestern_Europe/la3503.cpp) | | [YES](2005.Southwestern_Europe/la3505.cpp) | [YES](2005.Southwestern_Europe/la3506.cpp) | [YES](2005.Southwestern_Europe/la3507.cpp) | | [YES](2005.Southwestern_Europe/la3509.cpp) | [YES](2005.Southwestern_Europe/la3510.cpp) | [YES](2005.Southwestern_Europe/la3511.cpp) 
 
 
@@ -68,7 +80,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 3399 | 3400 | 3401 | 3402 | 3403 | 3404 | 3405 | 3406 | 3407 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Sum | Book| Colo| Orga| Mobi| Atom| Netw| Bing| Shy 
+| Title | Sum_| Book| Colo| Orga| Mobi| Atom| Netw| Bing| Shy_
 | Done? | [YES](2005.Tokyo/la3399.cpp) | [YES](2005.Tokyo/la3400.cpp) | [YES](2005.Tokyo/la3401.cpp) | [YES](2005.Tokyo/la3402.cpp) | [YES](2005.Tokyo/la3403.cpp) | [YES](2005.Tokyo/la3404.cpp) | [YES](2005.Tokyo/la3405.cpp) | | 
 
 
@@ -80,7 +92,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 3660 | 3661 | 3662 | 3663 | 3664 | 3665 | 3666 | 3667 | 3668 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Robo| Anim| Anot| Conn| Gues| XAR| What| Rule| A Fu
+| Title | Robo| Anim| Anot| Conn| Gues| XAR| What| Rule| A_Fu
 | Done? | | [YES](2006.Beijing/la3661.cpp) | [YES](2006.Beijing/la3662.cpp) | | [YES](2006.Beijing/la3664.cpp) | | | [YES](2006.Beijing/la3667.cpp) | 
 
 
@@ -92,7 +104,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 2189 | 2191 | 2192 | 2193 | 2194 | 2195 | 2196 | 2197 | 2198 | 2199 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Mobi| Pote| Coll| Expr| The | Coun| Mult| Pain| Prot| Batt
+| Title | Mobi| Pote| Coll| Expr| The_| Coun| Mult| Pain| Prot| Batt
 | Done? | [YES](2006.Dhaka/la2189.cpp) | [YES](2006.Dhaka/la2191.cpp) | | [YES](2006.Dhaka/la2193.cpp) | | | | [YES](2006.Dhaka/la2197.cpp) | | 
 
 
@@ -128,7 +140,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 3692 | 3693 | 3694 | 3695 | 3696 | 3697 | 3698 | 3699 | 3700 | 3701 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | ACM | Bala| Cont| Dist| Esca| Fals| Guar| Harm| Inte| John
+| Title | ACM_| Bala| Cont| Dist| Esca| Fals| Guar| Harm| Inte| John
 | Done? | [YES](2006.Shanghai/la3692.cpp) | [YES](2006.Shanghai/la3693.cpp) | [YES](2006.Shanghai/la3694.cpp) | [YES](2006.Shanghai/la3695.cpp) | | | | | | 
 
 
@@ -140,7 +152,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 3616 | 3617 | 3618 | 3619 | 3620 | 3621 | 3622 | 3623 | 3624 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | How | How | Cubi| Sum | Manh| Powe| Poly| The | Enjo
+| Title | How_| How_| Cubi| Sum_| Manh| Powe| Poly| The_| Enjo
 | Done? | [YES](2006.Yokohama/la3616.cpp) | [YES](2006.Yokohama/la3617.cpp) | [YES](2006.Yokohama/la3618.cpp) | [YES](2006.Yokohama/la3619.cpp) | [YES](2006.Yokohama/la3620.cpp) | [YES](2006.Yokohama/la3621.cpp) | [YES](2006.Yokohama/la3622.cpp) | | [YES](2006.Yokohama/la3624.cpp) 
 
 
@@ -164,7 +176,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4055 | 4056 | 4057 | 4058 | 4059 | 4060 | 4061 | 4062 | 4063 | 4064 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Bach| Nest| The | ACM | Insp| The | Phot| You | Infi| Magn
+| Title | Bach| Nest| The_| ACM_| Insp| The_| Phot| You_| Infi| Magn
 | Done? | [YES](2007.Dhaka/la4055.cpp) | [YES](2007.Dhaka/la4056.cpp) | | [YES](2007.Dhaka/la4058.cpp) | [YES](2007.Dhaka/la4059.cpp) | [YES](2007.Dhaka/la4060.cpp) | [YES](2007.Dhaka/la4061.cpp) | [YES](2007.Dhaka/la4062.cpp) | | [YES](2007.Dhaka/la4064.cpp) 
 
 
@@ -200,7 +212,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 3882 | 3883 | 3884 | 3885 | 3886 | 3887 | 3888 | 3889 | 3890 | 3891 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | And | Prim| Mini| Lowe| Geom| Slim| The | Bug | Most| The 
+| Title | And_| Prim| Mini| Lowe| Geom| Slim| The_| Bug_| Most| The_
 | Done? | [YES](2007.Tokyo/la3882.cpp) | [YES](2007.Tokyo/la3883.cpp) | [YES](2007.Tokyo/la3884.cpp) | [YES](2007.Tokyo/la3885.cpp) | [YES](2007.Tokyo/la3886.cpp) | [YES](2007.Tokyo/la3887.cpp) | [YES](2007.Tokyo/la3888.cpp) | [YES](2007.Tokyo/la3889.cpp) | [YES](2007.Tokyo/la3890.cpp) | [YES](2007.Tokyo/la3891.cpp) 
 
 
@@ -212,7 +224,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4157 | 4158 | 4159 | 4160 | 4161 | 4162 | 4163 | 4164 | 4165 | 4166 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Grey| Expe| Stop| Digi| Sphe| Trav| Sear| Top | Comm| Zigz
+| Title | Grey| Expe| Stop| Digi| Sphe| Trav| Sear| Top_| Comm| Zigz
 | Done? | [YES](2008.Aizu/la4157.cpp) | [YES](2008.Aizu/la4158.cpp) | [YES](2008.Aizu/la4159.cpp) | [YES](2008.Aizu/la4160.cpp) | [YES](2008.Aizu/la4161.cpp) | [YES](2008.Aizu/la4162.cpp) | [YES](2008.Aizu/la4163.cpp) | | [YES](2008.Aizu/la4165.cpp) | 
 
 
@@ -236,7 +248,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4322 | 4323 | 4324 | 4325 | 4326 | 4327 | 4328 | 4329 | 4330 | 4331 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Dest| A si| Ugly| Torn| Mini| Para| Prie| Ping| Time| Elev
+| Title | Dest| A_si| Ugly| Torn| Mini| Para| Prie| Ping| Time| Elev
 | Done? | [YES](2008.Beijing/la4322.cpp) | | | | [YES](2008.Beijing/la4326.cpp) | | [YES](2008.Beijing/la4328.cpp) | [YES](2008.Beijing/la4329.cpp) | [YES](2008.Beijing/la4330.cpp) | 
 
 
@@ -272,7 +284,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4351 | 4352 | 4353 | 4354 | 4355 | 4356 | 4357 | 4358 | 4359 | 4360 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | A Pa| Bina| Cryp| Déjà| Expe| Fire| Get-| Hist| Imag| Junk
+| Title | A_Pa| Bina| Cryp| Dj_v| Expe| Fire| GetT| Hist| Imag| Junk
 | Done? | [YES](2008.Hangzhou/la4351.cpp) | | | | | [YES](2008.Hangzhou/la4356.cpp) | [YES](2008.Hangzhou/la4357.cpp) | | | [YES](2008.Hangzhou/la4360.cpp) 
 
 
@@ -284,7 +296,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4312 | 4313 | 4314 | 4315 | 4316 | 4317 | 4318 | 4319 | 4320 | 4321 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Shel| K-di| Mini| Gaus| Sear| Simp| Navy| Carr| Degr| Divi
+| Title | Shel| Kdim| Mini| Gaus| Sear| Simp| Navy| Carr| Degr| Divi
 | Done? | | | [YES](2008.Harbin/la4314.cpp) | | | | | [YES](2008.Harbin/la4319.cpp) | [YES](2008.Harbin/la4320.cpp) | 
 
 
@@ -296,7 +308,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4269 | 4270 | 4271 | 4272 | 4273 | 4274 | 4275 | 4276 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | A Si| Disc| Neck| Poly| Post| Prog| Rati| Tria
+| Title | A_Si| Disc| Neck| Poly| Post| Prog| Rati| Tria
 | Done? | [YES](2008.Hefei/la4269.cpp) | | [YES](2008.Hefei/la4271.cpp) | [YES](2008.Hefei/la4272.cpp) | | | [YES](2008.Hefei/la4275.cpp) | [YES](2008.Hefei/la4276.cpp) 
 
 
@@ -320,7 +332,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4403 | 4404 | 4405 | 4406 | 4407 | 4408 | 4409 | 4410 | 4411 | 4412 | 4413 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | ASCI| Matc| Tari| Irre| Gun | Unlo| Iron| Shoo| Addi| The | Tria
+| Title | ASCI| Matc| Tari| Irre| Gun_| Unlo| Iron| Shoo| Addi| The_| Tria
 | Done? | [YES](2008.Kuala_Lumpur/la4403.cpp) | [YES](2008.Kuala_Lumpur/la4404.cpp) | [YES](2008.Kuala_Lumpur/la4405.cpp) | | [YES](2008.Kuala_Lumpur/la4407.cpp) | [YES](2008.Kuala_Lumpur/la4408.cpp) | [YES](2008.Kuala_Lumpur/la4409.cpp) | | | | [YES](2008.Kuala_Lumpur/la4413.cpp) 
 
 
@@ -332,7 +344,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4286 | 4287 | 4288 | 4289 | 4290 | 4291 | 4292 | 4293 | 4294 | 4295 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Equi| Prov| Cat | Disg| Easy| Scul| Matc| Whit| Shuf| Vide
+| Title | Equi| Prov| Cat_| Disg| Easy| Scul| Matc| Whit| Shuf| Vide
 | Done? | [YES](2008.Northwestern_Europe/la4286.cpp) | [YES](2008.Northwestern_Europe/la4287.cpp) | [YES](2008.Northwestern_Europe/la4288.cpp) | [YES](2008.Northwestern_Europe/la4289.cpp) | | [YES](2008.Northwestern_Europe/la4291.cpp) | [YES](2008.Northwestern_Europe/la4292.cpp) | [YES](2008.Northwestern_Europe/la4293.cpp) | [YES](2008.Northwestern_Europe/la4294.cpp) | 
 
 
@@ -344,7 +356,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4296 | 4297 | 4298 | 4299 | 4300 | 4301 | 4302 | 4303 | 4304 | 4305 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Brin| Firs| Post| Rand| The | The | Toll| Top | Tran| Wiza
+| Title | Brin| Firs| Post| Rand| The_| The_| Toll| Top_| Tran| Wiza
 | Done? | [YES](2008.Southwestern_Europe/la4296.cpp) | [YES](2008.Southwestern_Europe/la4297.cpp) | [YES](2008.Southwestern_Europe/la4298.cpp) | [YES](2008.Southwestern_Europe/la4299.cpp) | | | [YES](2008.Southwestern_Europe/la4302.cpp) | [YES](2008.Southwestern_Europe/la4303.cpp) | [YES](2008.Southwestern_Europe/la4304.cpp) | [YES](2008.Southwestern_Europe/la4305.cpp) 
 
 
@@ -356,7 +368,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4423 | 4424 | 4425 | 4426 | 4427 | 4428 | 4429 | 4430 | 4431 | 4432 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Stri| Pain| Anot| Blas| delt| Sola| Hurr| ACM | Frui| Roya
+| Title | Stri| Pain| Anot| Blas| delt| Sola| Hurr| ACM_| Frui| Roya
 | Done? | [YES](2008.Tehran/la4423.cpp) | [YES](2008.Tehran/la4424.cpp) | [YES](2008.Tehran/la4425.cpp) | [YES](2008.Tehran/la4426.cpp) | [YES](2008.Tehran/la4427.cpp) | [YES](2008.Tehran/la4428.cpp) | [YES](2008.Tehran/la4429.cpp) | [YES](2008.Tehran/la4430.cpp) | [YES](2008.Tehran/la4431.cpp) | 
 
 
@@ -368,7 +380,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4493 | 4494 | 4495 | 4496 | 4497 | 4498 | 4499 | 4500 | 4501 | 4502 | 4503 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | That| How | Foot| A Ma| Game| Pass| Came| Traf| Rect| How | Inte
+| Title | That| How_| Foot| A_Ma| Game| Pass| Came| Traf| Rect| How_| Inte
 | Done? | [YES](2009.Dhaka/la4493.cpp) | [YES](2009.Dhaka/la4494.cpp) | [YES](2009.Dhaka/la4495.cpp) | [YES](2009.Dhaka/la4496.cpp) | [YES](2009.Dhaka/la4497.cpp) | | [YES](2009.Dhaka/la4499.cpp) | [YES](2009.Dhaka/la4500.cpp) | | [YES](2009.Dhaka/la4502.cpp) | 
 
 
@@ -380,7 +392,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4753 | 4754 | 4755 | 4756 | 4757 | 4758 | 4759 | 4760 | 4761 | 4762 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Face| Zomb| Seat| Anci| Open| Post| Haml| Grap| Colu| P2P 
+| Title | Face| Zomb| Seat| Anci| Open| Post| Haml| Grap| Colu| PP_F
 | Done? | | | [YES](2009.Hangzhou/la4755.cpp) | [YES](2009.Hangzhou/la4756.cpp) | [YES](2009.Hangzhou/la4757.cpp) | [YES](2009.Hangzhou/la4758.cpp) | [YES](2009.Hangzhou/la4759.cpp) | | [YES](2009.Hangzhou/la4761.cpp) | [YES](2009.Hangzhou/la4762.cpp) 
 
 
@@ -392,7 +404,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4763 | 4764 | 4765 | 4766 | 4767 | 4768 | 4769 | 4770 | 4771 | 4772 | 4773 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Sudo| Bing| Stri| Gold| Mach| Miss| Fuzz| Offs| The | FM| YY a
+| Title | Sudo| Bing| Stri| Gold| Mach| Miss| Fuzz| Offs| The_| FM| YY_a
 | Done? | | [YES](2009.Harbin/la4764.cpp) | | [YES](2009.Harbin/la4766.cpp) | | | [YES](2009.Harbin/la4769.cpp) | [YES](2009.Harbin/la4770.cpp) | | [YES](2009.Harbin/la4772.cpp) | [YES](2009.Harbin/la4773.cpp) 
 
 
@@ -404,7 +416,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4666 | 4667 | 4668 | 4669 | 4670 | 4671 | 4672 | 4673 | 4674 | 4675 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Airp| Mers| Bubb| Lase| Domi| K-ne| New | Chin| Post| Supe
+| Title | Airp| Mers| Bubb| Lase| Domi| Knei| New_| Chin| Post| Supe
 | Done? | [YES](2009.Hefei/la4666.cpp) | [YES](2009.Hefei/la4667.cpp) | | [YES](2009.Hefei/la4669.cpp) | [YES](2009.Hefei/la4670.cpp) | | [YES](2009.Hefei/la4672.cpp) | | | 
 
 
@@ -416,7 +428,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4609 | 4610 | 4611 | 4612 | 4613 | 4614 | 4615 | 4616 | 4617 | 4618 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | An I| Comm| Divi| Frac| Moun| Movi| Room| Sett| Simp| Worm
+| Title | An_I| Comm| Divi| Frac| Moun| Movi| Room| Sett| Simp| Worm
 | Done? | [YES](2009.Northwestern_Europe/la4609.cpp) | [YES](2009.Northwestern_Europe/la4610.cpp) | [YES](2009.Northwestern_Europe/la4611.cpp) | [YES](2009.Northwestern_Europe/la4612.cpp) | [YES](2009.Northwestern_Europe/la4613.cpp) | [YES](2009.Northwestern_Europe/la4614.cpp) | | [YES](2009.Northwestern_Europe/la4616.cpp) | [YES](2009.Northwestern_Europe/la4617.cpp) | 
 
 
@@ -428,7 +440,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4712 | 4713 | 4714 | 4715 | 4716 | 4717 | 4718 | 4719 | 4720 | 4721 | 4722 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Airp| Elia| In-c| Rati| Rela| Your| Hexa| Buy | Synn| Nowh| High
+| Title | Airp| Elia| Inci| Rati| Rela| Your| Hexa| Buy_| Synn| Nowh| High
 | Done? | [YES](2009.Phuket/la4712.cpp) | [YES](2009.Phuket/la4713.cpp) | [YES](2009.Phuket/la4714.cpp) | | [YES](2009.Phuket/la4716.cpp) | | | | | [YES](2009.Phuket/la4721.cpp) | 
 
 
@@ -464,7 +476,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4483 | 4484 | 4485 | 4486 | 4487 | 4488 | 4489 | 4490 | 4491 | 4492 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Asse| Box | Cros| Down| Excl| Fina| Gift| Help| In a| Jiaj
+| Title | Asse| Box_| Cros| Down| Excl| Fina| Gift| Help| In_a| Jiaj
 | Done? | | [YES](2009.Wuhan/la4484.cpp) | [YES](2009.Wuhan/la4485.cpp) | [YES](2009.Wuhan/la4486.cpp) | [YES](2009.Wuhan/la4487.cpp) | | [YES](2009.Wuhan/la4489.cpp) | | | [YES](2009.Wuhan/la4492.cpp) 
 
 
@@ -476,7 +488,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4900 | 4901 | 4902 | 4903 | 4904 | 4905 | 4906 | 4907 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Cut | Flip| Maze| Phot| Pola| Pro-| Vamp| We'v
+| Title | Cut_| Flip| Maze| Phot| Pola| ProT| Vamp| Weve
 | Done? | [YES](2010.East_Central_NA/la4900.cpp) | [YES](2010.East_Central_NA/la4901.cpp) | [YES](2010.East_Central_NA/la4902.cpp) | [YES](2010.East_Central_NA/la4903.cpp) | | [YES](2010.East_Central_NA/la4905.cpp) | [YES](2010.East_Central_NA/la4906.cpp) | 
 
 
@@ -488,7 +500,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 4833 | 4834 | 4835 | 4836 | 4837 | 4838 | 4839 | 4840 | 4841 | 4842 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Naug| Pris| To B| Gomo| Guns| Rota| Traf| Nati| Sear| Infi
+| Title | Naug| Pris| To_B| Gomo| Guns| Rota| Traf| Nati| Sear| Infi
 | Done? | | [YES](2010.Hangzhou/la4834.cpp) | [YES](2010.Hangzhou/la4835.cpp) | | | [YES](2010.Hangzhou/la4838.cpp) | | [YES](2010.Hangzhou/la4840.cpp) | | [YES](2010.Hangzhou/la4842.cpp) 
 
 
@@ -500,7 +512,7 @@ Some codes might be unvailable because I haven't uploaded them yet.
 
 | UVALive | 5067 | 5068 | 5069 | 5070 | 5071 | 5072 | 5073 | 5074 | 5075 | 5076 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
-| Title | Memb| Ball| Town| Awkw| The | Find| Test| Wher| Inte| Matr
+| Title | Memb| Ball| Town| Awkw| The_| Find| Test| Wher| Inte| Matr
 | Done? | [YES](2010.Tokyo/la5067.cpp) | [YES](2010.Tokyo/la5068.cpp) | [YES](2010.Tokyo/la5069.cpp) | [YES](2010.Tokyo/la5070.cpp) | [YES](2010.Tokyo/la5071.cpp) | [YES](2010.Tokyo/la5072.cpp) | | [YES](2010.Tokyo/la5074.cpp) | [YES](2010.Tokyo/la5075.cpp) | 
 
 
