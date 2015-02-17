@@ -1,7 +1,19 @@
 # Statistics
-My solutions cover the ICPC regional contests from 2002 to 2010. I focus on the problems from Asian and European contests. About half of the problems remain unsolved because they are too difficult to me.
+My solutions cover the ICPC regional contests from 2000 to 2010. I focus on the problems from Asian and European contests. About half of the problems remain unsolved because they are too difficult to me.
 
 Some codes might be unavailable because I haven't uploaded them yet.
+
+[2001.Taejon](2001.Taejon/2001.Taejon.Solution_CN.md)
+
+
+| UVALive | 2321 | 2322 | 2323 | 2324 | 2325 | 2326 | 2327 | 2328 
+|  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
+| Title | Cale| Wood| Modu| Huma| Flip| Movi| Farm| Squa
+| Done? | [YES](2001.Taejon/la2321.cpp) | [YES](2001.Taejon/la2322.cpp) | | [YES](2001.Taejon/la2324.cpp) | [YES](2001.Taejon/la2325.cpp) | [YES](2001.Taejon/la2326.cpp) | | [YES](2001.Taejon/la2328.cpp) 
+
+
+
+
 
 [2002 Kaohsiung](2002.Kaohsiung/2002.Kaohsiung.Solution_CN.md)
 
