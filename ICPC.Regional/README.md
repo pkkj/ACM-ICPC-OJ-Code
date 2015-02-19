@@ -363,6 +363,18 @@ Some codes might be unavailable because I haven't uploaded them yet.
 
 
 
+[2008 Southeastern Europe](2008.Southeastern_Europe/2008.Southeastern_Europe.Solution_CN.md)
+
+
+| UVALive | 4183 | 4184 | 4185 | 4186 | 4187 | 4188 | 4189 | 4190 | 4191 
+|  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
+| Title | Stoc| Sky_| Perf| Luck| Buil| Quic| Luck| GCD_| Inte
+| Done? | [YES](2008.Southeastern_Europe/la4183.cpp) | [YES](2008.Southeastern_Europe/la4184.cpp) | [YES](2008.Southeastern_Europe/la4185.cpp) | | [YES](2008.Southeastern_Europe/la4187.cpp) | [YES](2008.Southeastern_Europe/la4188.cpp) | [YES](2008.Southeastern_Europe/la4189.cpp) | [YES](2008.Southeastern_Europe/la4190.cpp) | [YES](2008.Southeastern_Europe/la4191.cpp) 
+
+
+
+
+
 [2008 Southwestern Europe](2008.Southwestern_Europe/2008.Southwestern_Europe.Solution_CN.md)
 
 
