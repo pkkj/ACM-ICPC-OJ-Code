@@ -90,3 +90,15 @@ Some codes might be unavailable because I haven't uploaded them yet.
 
 
 
+[2009.Nordic](2009.Nordic/2009.Nordic.Solution_CN.md)
+
+
+| HDU | 3139 | 3140 | 3141 | 3142 | 3143 | 3144 | 3145 | 3146 | 3147 | 3148 
+|  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
+| Title | Soda_S| Money_| Allerg| Rain_F| Speedy| Gokige| Flight| Beacon| Playfa| Code_P
+| Done? | | | | | [YES](2009.Nordic/hdu3143.cpp) | | | [YES](2009.Nordic/hdu3146.cpp) | | 
+
+
+
+
+
