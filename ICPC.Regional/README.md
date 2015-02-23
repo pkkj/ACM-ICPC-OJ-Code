@@ -21,7 +21,7 @@ Some codes might be unavailable because I haven't uploaded them yet.
 | POJ | 1339 | 1340 | 1341 | 1342 | 1343 | 1344 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
 | Title | Poke| The_| The_| Tag_| Root| Tree
-| Done? | | | | | [YES](2002.Kaohsiung/poj1343.cpp) | [YES](2002.Kaohsiung/poj1344.cpp) 
+| Done? | [YES](2002.Kaohsiung/poj1339.cpp) | [YES](2002.Kaohsiung/poj1340.cpp) | | | [YES](2002.Kaohsiung/poj1343.cpp) | [YES](2002.Kaohsiung/poj1344.cpp) 
 
 
 
@@ -129,7 +129,7 @@ Some codes might be unavailable because I haven't uploaded them yet.
 | UVALive | 3702 | 3703 | 3704 | 3705 | 3706 | 3707 | 3708 | 3709 | 3710 | 3711 | 3712 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
 | Title | ASCI| Bill| Cell| Driv| Exch| Fool| Grav| Hard| Inte| Java| Kick
-| Done? | [YES](2006.Northeastern_Europe/la3702.cpp) | [YES](2006.Northeastern_Europe/la3703.cpp) | [YES](2006.Northeastern_Europe/la3704.cpp) | | [YES](2006.Northeastern_Europe/la3706.cpp) | | [YES](2006.Northeastern_Europe/la3708.cpp) | | | [YES](2006.Northeastern_Europe/la3711.cpp) | 
+| Done? | [YES](2006.Northeastern_Europe/la3702.cpp) | [YES](2006.Northeastern_Europe/la3703.cpp) | [YES](2006.Northeastern_Europe/la3704.cpp) | | [YES](2006.Northeastern_Europe/la3706.cpp) | | [YES](2006.Northeastern_Europe/la3708.cpp) | | [YES](2006.Northeastern_Europe/la3710.cpp) | [YES](2006.Northeastern_Europe/la3711.cpp) | [YES](2006.Northeastern_Europe/la3712.cpp) 
 
 
 
