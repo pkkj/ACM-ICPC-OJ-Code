@@ -1,5 +1,6 @@
-// CII 4452
-// 2009 World Final: The Ministers' Major Mess
+// 2009 World Finals: The Ministers' Major Mess
+// ACM-ICPC Live Archive 4452
+
 #include <cstdio>
 #include <cstring>
 #define N 1005

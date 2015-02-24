@@ -1,5 +1,6 @@
-// CII 4453
-// 2009 World Final: Struts and Springs
+// 2009 World Finals: Struts and Springs
+// ACM-ICPC Live Archive 4453
+
 #include <cstdio>
 #include <cstring>
 #include <vector>

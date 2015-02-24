@@ -1,5 +1,6 @@
-// CII 4448
-// 2009 World Final: Conduit Packing
+// 2009 World Finals: Conduit Packing
+// ACM-ICPC Live Archive 4448
+
 #include <cstdio>
 #include <cstring>
 #include <cmath>

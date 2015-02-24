@@ -1,5 +1,6 @@
-// CII 4450
-// 2009 World Final: Deer-Proof Fence
+// 2009 World Finals: Deer-Proof Fence
+// ACM-ICPC Live Archive 4450
+
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

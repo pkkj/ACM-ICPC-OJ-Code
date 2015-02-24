@@ -1,5 +1,6 @@
-// CII 4788
 // 2010 World Finals: Castles
+// ACM-ICPC Live Archive 4788
+
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
