@@ -1,3 +1,5 @@
+All the solutions and codes for regional contests and regional preliminary contests are located in Regional and Regional.Preliminary directory.
+
 # Index
 
 ## POJ Monthly--2004.05.15
