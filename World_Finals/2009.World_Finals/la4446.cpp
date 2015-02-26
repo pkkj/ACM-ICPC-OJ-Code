@@ -1,5 +1,6 @@
-// CII 4446
-// 2009 World Final: My Bad
+// 2009 World Finals: My Bad
+// ACM-ICPC Live Archive 4446
+
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

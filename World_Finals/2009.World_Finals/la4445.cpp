@@ -1,5 +1,6 @@
-// CII 4445
-// 2009 World Final: A Careful Approach
+// 2009 World Finals: A Careful Approach
+// ACM-ICPC Live Archive 4445
+
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

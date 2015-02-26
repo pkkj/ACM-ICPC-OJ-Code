@@ -1,5 +1,6 @@
-// CII 4787 Tracking Bio-bots
-// 2010 World Finals
+// 2010 World Finals: Tracking Bio-bots
+// ACM-ICPC Live Archive 4787 
+
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

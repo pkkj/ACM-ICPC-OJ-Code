@@ -1,5 +1,5 @@
-// CII 3807 
-// World Final 2007: Marble Game
+// 2007 World Finals: Marble Game
+// ACM-ICPC Live Archive 3807 
 // BFS
 #include <cstdio>
 #include <cstring>

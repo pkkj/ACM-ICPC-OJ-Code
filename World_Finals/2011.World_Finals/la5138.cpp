@@ -1,5 +1,6 @@
-// CII 5138
 // 2011 World Finals: Trash Removal
+// ACM-ICPC Live Archive 5138
+
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

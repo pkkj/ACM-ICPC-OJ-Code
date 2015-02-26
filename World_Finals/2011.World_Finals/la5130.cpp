@@ -1,5 +1,6 @@
-// CII 5130
 // 2011 World Finals: Ancient Messages
+// ACM-ICPC Live Archive 5130
+
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
