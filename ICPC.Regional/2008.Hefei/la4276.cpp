@@ -1,5 +1,6 @@
 // 2008 Hefei: Triangles
-// CII 4276
+// ACM-ICPC Live Archive 4276
+
 #include <cstdio>
 #include <cstring>
 #include <algorithm>

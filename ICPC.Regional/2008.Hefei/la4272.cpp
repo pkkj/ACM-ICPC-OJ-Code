@@ -1,5 +1,6 @@
 // 2008 Hefei: Polynomial-time Reductions
-// CII 4272
+// ACM-ICPC Live Archive 4272
+
 #include <cstdio>
 #include <cstring>
  

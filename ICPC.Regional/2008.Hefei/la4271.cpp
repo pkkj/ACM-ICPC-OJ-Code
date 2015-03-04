@@ -1,5 +1,6 @@
 // 2008 Hefei: Necklace
-// CII 4271
+// ACM-ICPC Live Archive 4271
+
 #include <cstdio>
 #include <cstring>
 #define N 10001

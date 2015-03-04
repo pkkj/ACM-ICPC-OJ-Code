@@ -1,5 +1,6 @@
 // 2008 Hefei: A Simple Game
-// CII 4269
+// ACM-ICPC Live Archive 4269
+
 #include <cstdio>
 #include <cstring>
 #include <algorithm>
