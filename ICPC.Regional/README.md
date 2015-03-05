@@ -3,6 +3,30 @@ My solutions cover the ICPC regional contests from 2000 to 2010. I focus on the 
 
 Some codes might be unavailable because I haven't uploaded them yet.
 
+[1998 Northeastern Europe](1998.Northeastern_Europe/1998.Northeastern_Europe.Solution_CN.md)
+
+
+| UVALive | 5658 | 5659 | 5660 | 5661 | 5662 | 5663 | 5664 | 5665 
+|  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
+| Title | Fals| Rati| Fenc| Parl| Defr| The_| Spel| Gang
+| Done? | | | [YES](1998.Northeastern_Europe/la5660.cpp) | | [YES](1998.Northeastern_Europe/la5662.cpp) | | | [YES](1998.Northeastern_Europe/la5665.cpp) 
+
+
+
+
+
+[2000.Tehran](2000.Tehran/2000.Tehran.Solution_CN.md)
+
+
+| UVALive | 2052 | 2053 | 2054 | 2055 | 2056 | 2057 | 2058 | 2059 
+|  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
+| Title | Numb| Puzz| Dyna| Colo| Lazy| Bugg| Cash| Dolp
+| Done? | [YES](2000.Tehran/la2052.cpp) | [YES](2000.Tehran/la2053.cpp) | [YES](2000.Tehran/la2054.cpp) | | [YES](2000.Tehran/la2056.cpp) | [YES](2000.Tehran/la2057.cpp) | [YES](2000.Tehran/la2058.cpp) | 
+
+
+
+
+
 [2001.Taejon](2001.Taejon/2001.Taejon.Solution_CN.md)
 
 
