@@ -15,13 +15,25 @@ Some codes might be unavailable because I haven't uploaded them yet.
 
 
 
+[1999.Tehran](1999.Tehran/1999.Tehran.Solution_CN.md)
+
+
+| POJ | 1690 | 1691 | 1692 | 1693 | 1694 | 1695 | 1696 | 1697 
+|  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
+| Title | Your| Pain| Cros| Coun| An_O| Maga| Spac| The_
+| Done? | [YES](1999.Tehran/poj1690.cpp) | | | [YES](1999.Tehran/poj1693.cpp) | | | [YES](1999.Tehran/poj1696.cpp) | 
+
+
+
+
+
 [2000.Tehran](2000.Tehran/2000.Tehran.Solution_CN.md)
 
 
 | UVALive | 2052 | 2053 | 2054 | 2055 | 2056 | 2057 | 2058 | 2059 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
 | Title | Numb| Puzz| Dyna| Colo| Lazy| Bugg| Cash| Dolp
-| Done? | [YES](2000.Tehran/la2052.cpp) | [YES](2000.Tehran/la2053.cpp) | [YES](2000.Tehran/la2054.cpp) | | [YES](2000.Tehran/la2056.cpp) | [YES](2000.Tehran/la2057.cpp) | [YES](2000.Tehran/la2058.cpp) | 
+| Done? | [YES](2000.Tehran/la2052.cpp) | [YES](2000.Tehran/la2053.cpp) | [YES](2000.Tehran/la2054.cpp) | [YES](2000.Tehran/la2055.cpp) | [YES](2000.Tehran/la2056.cpp) | [YES](2000.Tehran/la2057.cpp) | [YES](2000.Tehran/la2058.cpp) | 
 
 
 
