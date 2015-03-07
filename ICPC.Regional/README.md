@@ -21,7 +21,7 @@ Some codes might be unavailable because I haven't uploaded them yet.
 | POJ | 1690 | 1691 | 1692 | 1693 | 1694 | 1695 | 1696 | 1697 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
 | Title | Your| Pain| Cros| Coun| An_O| Maga| Spac| The_
-| Done? | [YES](1999.Tehran/poj1690.cpp) | | | [YES](1999.Tehran/poj1693.cpp) | | | [YES](1999.Tehran/poj1696.cpp) | 
+| Done? | [YES](1999.Tehran/poj1690.cpp) | | [YES](1999.Tehran/poj1692.cpp) | [YES](1999.Tehran/poj1693.cpp) | | [YES](1999.Tehran/poj1695.cpp) | [YES](1999.Tehran/poj1696.cpp) | 
 
 
 
