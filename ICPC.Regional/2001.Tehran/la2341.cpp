@@ -1,4 +1,4 @@
-// Tehran 2001: Illusive Chase
+// 2001 Tehran: Illusive Chase
 // ACM-ICPC Live Archive 2341
 // POJ 1071
 
