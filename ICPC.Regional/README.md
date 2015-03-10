@@ -33,7 +33,7 @@ Some codes might be unavailable because I haven't uploaded them yet.
 | UVALive | 2052 | 2053 | 2054 | 2055 | 2056 | 2057 | 2058 | 2059 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
 | Title | Numb| Puzz| Dyna| Colo| Lazy| Bugg| Cash| Dolp
-| Done? | [YES](2000.Tehran/la2052.cpp) | [YES](2000.Tehran/la2053.cpp) | [YES](2000.Tehran/la2054.cpp) | [YES](2000.Tehran/la2055.cpp) | [YES](2000.Tehran/la2056.cpp) | [YES](2000.Tehran/la2057.cpp) | [YES](2000.Tehran/la2058.cpp) | 
+| Done? | [YES](2000.Tehran/la2052.cpp) | [YES](2000.Tehran/la2053.cpp) | [YES](2000.Tehran/la2054.cpp) | [YES](2000.Tehran/la2055.cpp) | [YES](2000.Tehran/la2056.cpp) | [YES](2000.Tehran/la2057.cpp) | [YES](2000.Tehran/la2058.cpp) | [YES](2000.Tehran/la2059.cpp) 
 
 
 
@@ -45,7 +45,7 @@ Some codes might be unavailable because I haven't uploaded them yet.
 | UVALive | 2321 | 2322 | 2323 | 2324 | 2325 | 2326 | 2327 | 2328 
 |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- |  ------- 
 | Title | Cale| Wood| Modu| Huma| Flip| Movi| Farm| Squa
-| Done? | [YES](2001.Taejon/la2321.cpp) | [YES](2001.Taejon/la2322.cpp) | | [YES](2001.Taejon/la2324.cpp) | [YES](2001.Taejon/la2325.cpp) | [YES](2001.Taejon/la2326.cpp) | | [YES](2001.Taejon/la2328.cpp) 
+| Done? | [YES](2001.Taejon/la2321.cpp) | [YES](2001.Taejon/la2322.cpp) | [YES](2001.Taejon/la2323.cpp) | [YES](2001.Taejon/la2324.cpp) | [YES](2001.Taejon/la2325.cpp) | [YES](2001.Taejon/la2326.cpp) | | [YES](2001.Taejon/la2328.cpp) 
 
 
 
